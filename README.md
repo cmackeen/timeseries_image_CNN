@@ -1,4 +1,4 @@
-#Torch Time-Series -> Image Binary Classifier
+# Torch Time-Series -> Image Binary Classifier
 
 
 This project trains a torch (pywarm) image classifier to classify a local maximum in a financial time series. By default, training samples consist of a 3 channel image tensor produced using a combination of wavelet transforms and Gramian Angular Field  transforms of a time-series subsequence of 60 points.
